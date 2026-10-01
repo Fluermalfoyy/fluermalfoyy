@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://cdn.discordapp.com/attachments/1098933533206130730/1555348466736308304/MALFOY_BANNER.gif?backend=b2&ex=6ac032a3&is=6abee123&hm=eeeb82b991ea72948ad116e916ce063b9e8ba912bf781d1387fc8eae180de394&animated=true"  />
+  <img data-importer="image" height="540" src="https://cdn.discordapp.com/attachments/1098933533206130730/1555359662973526046/Add_a_heading.gif?backend=b2&ex=6ac03d10&is=6abeeb90&hm=1df9d467b58c886ba697280f3ee9761ff252c8db968dfc96fb99e3e250c11ab4&animated=true"  />
 </div>
 
 ###
@@ -41,6 +41,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
 </div>
 
 ###
